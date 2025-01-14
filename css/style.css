@@ -530,7 +530,7 @@ letter-spacing: 0.02em;
 color:#FFFFFF;
 margin-bottom: 16px;
 }
-.footer .madia-link {
+.madia-link {
    width: 100%;
    height: 100%;
    background-color: #4d5ae5;
@@ -539,10 +539,10 @@ margin-bottom: 16px;
    align-items: center;
    justify-content: center;
 }
-.footer .media-link:hover {
+.media-link:hover {
    background-color: #31d0aa;
 }
-.footer .media-link:focus {
+.media-link:focus {
    background-color: #31d0aa;
 }
 .icon-footer {
