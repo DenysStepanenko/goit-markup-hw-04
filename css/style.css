@@ -102,11 +102,11 @@ section {
    gap: 40px;
    list-style: none;
    align-items: center;
+   
 }
 
 .menu-item {
-   position: relative;
-   
+   position: relative;   
 }
 
 .menu-link {
@@ -126,7 +126,9 @@ section {
    color: #404BBF;
 }
 
-
+.menu-link.active {
+   color: #404BBF;
+}
 .menu-link:hover::after,
 .menu-link.active::after {
    content: "";
